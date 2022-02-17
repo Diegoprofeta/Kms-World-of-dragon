@@ -1,44 +1,17 @@
-#Commands for activation
+# Commands for activation
 
 slmgr /ipk KEYWINDOWS<br>
 slmgr /skms kms.worldofdragon.net<br>
 slmgr /ato<br>
 
-#Commands for conversion 
+# Commands for conversion 
 USE THE WINDOWS POWERSHELL IN ADMINISTRATOR MODE !<br><br>
 DISM /online /Get-TargetEditions<br>
 <Br>
 dism /online /set-edition:VERSION /productkey:WINDOWSKEY /accepteula
 <Br>
 
-
-# GVLK Keys form Microsoft Official Website
-> 
-- [Windows](#windows)
-	- [Windows 10](#win10)
-	- [Windows 8.1](#win81)
-	- [Windows 8](#win8)
-	- [Windows 7](#win7)
-	- [Windows Vista](#vista)
-- [Office](#office)
-	- [Office 2019](#2019)
-	- [Office 2016](#2016)
-	- [Office 2013](#2013)
-	- [Office 2010](#2010)
-- [Server](#server)
-	- [Windows Server 2019](#srv2019)
-	- [Windows Server 2016](#srv2016)
-	- [Windows Server 2012R2](#srv2012r2)
-	- [Windows Server 2012](#srv2012)
-	- [Windows Server 2008R2](#srv2008r2)
-	- [Windows Server 2008](#srv2008)
-
-> Source
-- https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys
-- https://technet.microsoft.com/en-us/library/jj612867.aspx
-- https://technet.microsoft.com/en-us/library/dn385360(v=office.16).aspx
-- https://technet.microsoft.com/en-us/library/dn385360.aspx
-- https://technet.microsoft.com/en-us/library/ee624355(office.14).aspx
+# GVLK Keys for windows 
 
 ## Windows
 ### Windows 10  [↑TOP](#top)
