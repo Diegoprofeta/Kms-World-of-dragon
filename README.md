@@ -1,9 +1,15 @@
+#Commands for activation
+
 slmgr /ipk KEYWINDOWS<br>
 slmgr /skms kms.worldofdragon.net<br>
 slmgr /ato<br>
 
-
-
+#Commands for conversion 
+USE THE WINDOWS POWERSHELL IN ADMINISTRATOR MODE !<br><br>
+DISM /online /Get-TargetEditions<br>
+<Br>
+dism /online /set-edition:VERSION /productkey:WINDOWSKEY /accepteula
+<Br>
 
 
 # GVLK Keys form Microsoft Official Website
